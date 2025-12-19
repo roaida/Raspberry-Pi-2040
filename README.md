@@ -1,4 +1,4 @@
-# 🔌Raspberry Pi RP2040 Minimal Board (Sponsoredby PCBWay)
+# 🔌Raspberry Pi RP2040 Minimal Board (Sponsored by PCBWay)
 
 A compact, minimal circuit design for the Raspberry Pi RP2040 microcontroller. This board includes essential components for booting, programming via USB, and running custom embedded applications.
 ---
